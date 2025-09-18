@@ -107,7 +107,7 @@ valgrind --tool=memcheck --leak-check=full ./build/AirlineManagementSystem
 
 **Ahmed Atia**  
 *Software Developer | Modern C++ Enthusiast*  
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/ahmed-atia-said-b8aa38135/)
 
 ---
 
