@@ -1,0 +1,32 @@
+[
+    {
+        "id": "CM-1006",
+        "name": "Chris Evans",
+        "role": "Pilot"
+    },
+    {
+        "id": "CM-1005",
+        "name": "Scarlett Johansson",
+        "role": "Flight Attendant"
+    },
+    {
+        "id": "CM-1004",
+        "name": "Bob Brown",
+        "role": "Flight Attendant"
+    },
+    {
+        "id": "CM-1003",
+        "name": "Alice Johnson",
+        "role": "Pilot"
+    },
+    {
+        "id": "CM-1002",
+        "name": "Jane Smith",
+        "role": "Flight Attendant"
+    },
+    {
+        "id": "CM-1001",
+        "name": "John Doe",
+        "role": "Pilot"
+    }
+]
